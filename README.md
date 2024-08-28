@@ -10,11 +10,11 @@
 
 
 <h2>Project-2 : The Dice Game</h2>
-<ul>
-Create an External JS File
-Add Dice Images
-Create a Random Number
-Change both img to a Random Dice
-Change both img Elements
-Change the Title to Display a Winner!
-<ul>
+
+<li>Create an External JS File</li>
+<li>Add Dice Images</li>
+<li>Create a Random Number</li>
+<li>Change both img to a Random Dice</li>
+<li>Change both img Elements</li>
+<li>Change the Title to Display a Winner!</li>
+
